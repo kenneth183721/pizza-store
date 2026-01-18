@@ -1,0 +1,19 @@
+import { Link } from "react-router-dom";
+import SearchOrder from "../features/order/SearchOrder";
+import Username from "../features/users/Username";
+
+function Header() {
+  return (
+    <header className="flex items-center justify-around border-b border-stone-400 bg-yellow-400 px-4 py-3 font-sans sm:px-6">
+      <Link to="/" className="tracking-widest uppercase">
+        Pizza Store
+      </Link>
+
+      <SearchOrder />
+
+      <Username />
+    </header>
+  );
+}
+
+export default Header;

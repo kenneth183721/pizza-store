@@ -1,0 +1,187 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "Margherita",
+      "unitPrice": 120,
+      "imageUrl": "/img/pizza-1.jpg",
+      "ingredients": ["tomato", "mozzarella", "basil"],
+      "soldOut": false
+    },
+    {
+      "id": "2",
+      "name": "Capricciosa",
+      "unitPrice": 140,
+      "imageUrl": "/img/pizza-2.jpg",
+      "ingredients": ["tomato", "mozzarella", "ham", "mushrooms", "artichoke"],
+      "soldOut": false
+    },
+    {
+      "id": "3",
+      "name": "Romana",
+      "unitPrice": 150,
+      "imageUrl": "/img/pizza-3.jpg",
+      "ingredients": ["tomato", "mozzarella", "prosciutto"],
+      "soldOut": false
+    },
+    {
+      "id": "4",
+      "name": "Prosciutto e Rucola",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-4.jpg",
+      "ingredients": ["tomato", "mozzarella", "prosciutto", "arugula"],
+      "soldOut": false
+    },
+    {
+      "id": "5",
+      "name": "Diavola",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-5.jpg",
+      "ingredients": ["tomato", "mozzarella", "spicy salami", "chili flakes"],
+      "soldOut": false
+    },
+    {
+      "id": "6",
+      "name": "Vegetale",
+      "unitPrice": 130,
+      "imageUrl": "/img/pizza-6.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "bell peppers",
+        "onions",
+        "mushrooms"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": "7",
+      "name": "Napoli",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-7.jpg",
+      "ingredients": ["tomato", "mozzarella", "fresh tomato", "basil"],
+      "soldOut": false
+    },
+    {
+      "id": "8",
+      "name": "Siciliana",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-8.jpg",
+      "ingredients": ["tomato", "mozzarella", "anchovies", "olives", "capers"],
+      "soldOut": false
+    },
+    {
+      "id": "9",
+      "name": "Pepperoni",
+      "unitPrice": 140,
+      "imageUrl": "/img/pizza-9.jpg",
+      "ingredients": ["tomato", "mozzarella", "pepperoni"],
+      "soldOut": false
+    },
+    {
+      "id": "10",
+      "name": "Hawaiian",
+      "unitPrice": 150,
+      "imageUrl": "/img/pizza-10.jpg",
+      "ingredients": ["tomato", "mozzarella", "pineapple", "ham"],
+      "soldOut": false
+    },
+    {
+      "id": "11",
+      "name": "Spinach and Mushroom",
+      "unitPrice": 150,
+      "imageUrl": "/img/pizza-11.jpg",
+      "ingredients": ["tomato", "mozzarella", "spinach", "mushrooms"],
+      "soldOut": false
+    },
+    {
+      "id": "12",
+      "name": "Mediterranean",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-12.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "sun-dried tomatoes",
+        "olives",
+        "artichoke"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": "13",
+      "name": "Greek",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-13.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "spinach",
+        "feta",
+        "olives",
+        "pepperoncini"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": "14",
+      "name": "Abruzzese",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-14.jpg",
+      "ingredients": ["tomato", "mozzarella", "prosciutto", "arugula"],
+      "soldOut": false
+    },
+    {
+      "id": "15",
+      "name": "Pesto Chicken",
+      "unitPrice": 160,
+      "imageUrl": "/img/pizza-15.jpg",
+      "ingredients": [
+        "pesto",
+        "mozzarella",
+        "chicken",
+        "sun-dried tomatoes",
+        "spinach"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": "16",
+      "name": "Eggplant Parmesan",
+      "unitPrice": 150,
+      "imageUrl": "/img/pizza-16.jpg",
+      "ingredients": ["marinara", "mozzarella", "eggplant", "parmesan"],
+      "soldOut": false
+    },
+    {
+      "id": "17",
+      "name": "Roasted Veggie",
+      "unitPrice": 150,
+      "imageUrl": "/img/pizza-17.jpg",
+      "ingredients": [
+        "marinara",
+        "mozzarella",
+        "zucchini",
+        "eggplant",
+        "peppers",
+        "onions"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": "18",
+      "name": "Tofu and Mushroom",
+      "unitPrice": 150,
+      "imageUrl": "/img/pizza-18.jpg",
+      "ingredients": [
+        "marinara",
+        "mozzarella",
+        "tofu",
+        "mushrooms",
+        "bell peppers"
+      ],
+      "soldOut": false
+    }
+  ],
+  "orders": []
+}
