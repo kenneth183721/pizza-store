@@ -1,7 +1,7 @@
 # Pizza-Srore - Advanced E-commerce React Application
 A feature-rich, high-performance pizza ordering platform designed for speed and seamless user experience. This project showcases enterprise-level state management and real-time interaction logic.
 
-[LiveDemo](https://pizza-store-lovat-six.vercel.app/)
+[Live Demo](https://pizza-store-lovat-six.vercel.app/)
 
  ## 🚀 Project Overview
 Pizza-Store is a modern Single Page Application (SPA) that mimics a real-world food delivery service. The project focuses on handling complex shopping cart operations, asynchronous data fetching from a remote API, and enhancing UX with browser-level Geolocation.
